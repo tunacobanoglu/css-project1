@@ -1,0 +1,18 @@
+
+
+.tac {
+    text-align:center;
+}
+
+ul.nav {
+    padding-left: 0px;
+    text-align: center;
+}
+ul.nav > li {
+    display: inline-block;
+}
+
+#products {
+    padding-left: 0px;
+    display: inline-table;
+}
