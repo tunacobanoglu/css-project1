@@ -1,6 +1,6 @@
 
 
-.tac {
+.badi {
     text-align:center;
 }
 
@@ -11,8 +11,34 @@ ul.nav {
 ul.nav > li {
     display: inline-block;
 }
-
-#products {
+/***************** Homepage - Start ****************/
+.products-hm {
     padding-left: 0px;
     display: inline-table;
 }
+/***************** Homepage - End ****************/
+
+/************ Products Page - Start *********/
+.products {
+    padding-left: 0px;
+    display:inline-table;
+}
+
+img {
+    width: 400px;
+}
+
+.price {
+    font-style:italic;
+    font-weight:bolder;
+    color: darkred;
+}
+/************ Products Page - End ****************/
+
+/*************** About Us - Start **************/
+.abp {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+/*************** About Us - End **************/
