@@ -1,9 +1,24 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
 
 .badi {
     text-align:center;
+    background-image: linear-gradient(to bottom right,rgba(0, 225, 255, 0.514), rgb(0, 255, 157)); 
+    font-family: 'Playfair Display', serif;
+    font-size: 1em;
+    line-height: 20px;
+    padding: 5%;
 }
 
+h1 {
+    color: brown;
+}
+h2 {
+    color: rgb(163, 107, 3);
+}
+
+h3 {
+    color: rgb(82, 39, 180);
+}
 ul.nav {
     padding-left: 0px;
     text-align: center;
